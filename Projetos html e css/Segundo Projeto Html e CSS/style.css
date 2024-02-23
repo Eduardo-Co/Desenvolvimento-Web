@@ -1,0 +1,58 @@
+
+
+body {
+	background: #d2d2d2c1 url('imagens/fundo.png');
+	font: 20px Arial, helvetica, sans-serif;
+	
+}
+
+#principal {
+	margin:auto;
+	width: 900px;
+}
+
+.cor-beje{
+	height: 100px;
+	background-color: rgba(210, 193, 174, 0.642);
+
+}
+
+#menu{
+
+	padding: 40px;
+
+}
+
+a {
+	
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+#container{
+	background-color: rgba(143, 135, 125, 0.731);
+
+}
+#separar{
+	margin:1px;
+	font-size: 20px;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+#about{
+
+	font-weight: bold;
+	color: rgb(23, 52, 23);
+
+}
+
+#rodape{
+
+	padding-left: 290px;
+	font-size: 10px;
+	
+
+}

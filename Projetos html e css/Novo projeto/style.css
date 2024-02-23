@@ -1,0 +1,93 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: relative;
+
+    display: flex;
+    background: #2c271e;
+    height: 200px;
+    justify-content: space-between;
+    z-index: 0;
+
+}
+nav{
+    
+   
+    display: flex;
+    margin-right: 10%;
+    align-items: center;
+    padding-bottom: 50px;
+    justify-content: center;
+    
+    
+}
+
+
+nav ul{
+    
+    display: flex;
+
+}
+
+ul a{
+
+    color: #83572a;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+
+}
+
+header h1{
+    color: #dedada;
+    display:flex;
+    margin-left: 10%;
+    align-items: center;
+    padding-bottom: 50px;
+    
+}
+span{
+    color: #6d4c20;
+    padding-left: 10px;
+
+}
+
+
+ul a:hover{
+
+    background: rgba(199, 199, 199, 0.484);
+
+}
+
+
+main{
+
+    display: flex;
+    position: absolute;
+    margin: 0% 10%;
+    z-index: 1;
+    top: 120px;
+
+}
+article,aside{
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+
+#depoimento{
+
+    
+
+}
+
+aside{
+
+    
+
+}
